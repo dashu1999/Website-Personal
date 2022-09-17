@@ -1,0 +1,26 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/codingthunder",
+      "prod_uri":"mysql://root:@localhost/codingthunder",
+      "fb_url":"https://www.facebook.com/darshandthummar",
+      "yt_url":"https://www.youtube.com/channel/UCmZnBuwqZpz2Ofew9sm2FAA?",
+      "tw_url":"https://www.instagram.com/mr_dashu_thummar/?hl=en",
+      "gh_url": "https://vk.com/id509488516",
+      "blog_name": "Foreign Students in Sterlitamak",
+      "tag_line": "Students Life",
+      "gmail-user":"darshan.thumar172@gmail.com",
+      "gmail-password":"Your Password",
+      "about_text": "Hi my name is Dashu and I create Website and I am a good boy",
+      "no_of_posts": 4,
+      "login_image":"admin.png",
+      "admin_user":"dashu",
+      "admin_password":"dashudashu",
+      "upload_location":"D:\\Webdesign\\website\\static\\Upload Photos",
+      "by": "name = name"
+
+
+    }
+  }
+  
